@@ -5,3 +5,5 @@
 - **Persistent History:** All your workouts are saved in local storage so you can close the browser and return anytime without losing a single run or ride.  
 - **Smooth UX:** The form gracefully shows and hides on map clicks, input fields swap dynamically between cadence and elevation, and the map pans and zooms with animated transitions when you revisit past workouts.  
 - **Exhilarating Journey:** With PulsePath, every route, milestone, and personal best comes alive on the map.
+  <img width="1107" alt="image" src="https://github.com/user-attachments/assets/ba53e448-6bb6-4bb6-a658-e8b3f17123b8" />
+
