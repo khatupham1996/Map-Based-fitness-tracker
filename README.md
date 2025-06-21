@@ -1,5 +1,5 @@
 # Map-Based-fitness-tracker
-Live Geo-Mapping: Tap anywhere on the map to log a new workout at that precise location, then watch as markers spring to life showing your route.
+- **Live Geo-Mapping:** Tap anywhere on the map to log a new workout at that precise location, then watch as markers spring to life showing your route.  
 Data Capture: Enter distance, duration, cadence for running or elevation gain for cycling, and PulsePath instantly calculates pace or speed—no manual math required.
 Dynamic Pop-ups and Descriptions: Each session is automatically stamped with an emoji icon 🏃‍♂️ or 🚴‍♀️, a human-readable title and opens a stylized popup when selected.
 Persistent History: All your workouts are saved in local storage so you can close the browser and return anytime without losing a single run or ride.
